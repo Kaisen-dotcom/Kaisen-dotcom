@@ -20,8 +20,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://i.chzbgr.com/full/9705119488/h12C4AF59/cat-why-should-hire-tech-recruiter]" width="512px"/>
 
+![yes](https://i.chzbgr.com/full/9705119488/h12C4AF59/cat-why-should-hire-tech-recruiter)
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaisen-dotcom&icon=2&color=11)](https://visitcount.itsvg.in)
 
