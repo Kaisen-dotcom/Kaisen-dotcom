@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://urlme.me/success/typed_a_url/made_a_meme.jpg](https://i.chzbgr.com/full/9705119488/h12C4AF59/cat-why-should-hire-tech-recruiter)" width="512px"/>
+<img src="[https://i.chzbgr.com/full/9705119488/h12C4AF59/cat-why-should-hire-tech-recruiter]" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaisen-dotcom&icon=2&color=11)](https://visitcount.itsvg.in)
