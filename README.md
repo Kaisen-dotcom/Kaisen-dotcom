@@ -21,7 +21,7 @@
 
 ### 😂 Random Dev Meme
 
-![yes]([https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg](https://scontent.frba3-1.fna.fbcdn.net/v/t1.6435-9/95132254_1335706656789508_3608146989658669056_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9267fe&_nc_ohc=ct7tK7C1yIUAX_D2gku&_nc_ht=scontent.frba3-1.fna&oh=00_AfA87opHS1LGOG-Pj9DY_lG5u-FNQ-sFQJ1qn6FJhoCjxg&oe=63DE5623))
+![yes](https://devs.lol/uploads/2021/12/meme-dev-humor-if-youre-a-programmer-there-is-i-in-for-250.jpg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaisen-dotcom&icon=2&color=11)](https://visitcount.itsvg.in)
 
