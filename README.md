@@ -21,7 +21,7 @@
 
 ### 😂 Random Dev Meme
 
-![yes](https://i.chzbgr.com/full/9705119488/h12C4AF59/cat-why-should-hire-tech-recruiter)
+![yes](https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaisen-dotcom&icon=2&color=11)](https://visitcount.itsvg.in)
 
