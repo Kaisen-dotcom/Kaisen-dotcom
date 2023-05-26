@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a Software Engineering Student👨🏻‍💻 with a passion for science ⚛ & human behavior<br>🔭 I’m currently working on website building<br>💬 Ask me about anything, I am happy to help<br>✍  I'm now a ALX Student,  as a full-stack engineer<br>Tools and technologies from React ecosystem & VueJs<br>👯 Join my community if you're a tech enthusiast<br>💪 This is where I write, code, and solve problems:
+👨‍🎓 I'm a Software Engineering Student👨🏻‍💻 with a passion for science ⚛ & human behavior<br>🔭 I’m currently working on website building<br>💬 Ask me about anything, I am happy to help<br>✍  I'm now a ALX Student,  as a full-stack engineer<br>👯 Join my community if you're a tech enthusiast<br>💪 This is where I write, code, and solve problems:
 
 
 ## 🌐 Socials:
